@@ -8,8 +8,9 @@ Googleドライブに変換後のモデルファイルを保存します。
 
 <a href="https://colab.research.google.com/github/haruharu-1105/AuraFlow-fp8/blob/main/to_fp8_e4m3.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>をクリックして、簡単に実行できます。  
 
+--- 
+以下からは、作業中の情報です。  
 ## モデルアーキテクチャ  
-作業中です。  
 [auraflow_v0.3_architecture.md](https://github.com/haruharu-1105/AuraFlow-fp8/blob/main/auraflow_v0.3_architecture.md)  
 - テキストエンコーダー：T5  
 - FLOW
